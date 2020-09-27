@@ -1,2 +1,2 @@
 # sistema_cadastro
-Sistema de cadastro de pessoas.
+Sistema de cadastro de pessoas, animais, plantas...
